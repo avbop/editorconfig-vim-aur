@@ -1,4 +1,5 @@
 # Maintainer: Anthony VanBerkum <anthonyvbop AT gmail DOT com>
+# https://github.com/avbop/editorconfig-vim-aur
 pkgname=editorconfig-vim
 pkgver=1.0.0_beta
 pkgrel=1
